@@ -23,10 +23,5 @@ GitHub Contribution: The repository houses a meticulously crafted implementation
 
 https://www.kaggle.com
 
-### Overview:-
-
-![image](https://user-images.githubusercontent.com/91726340/221412777-b4d04475-179f-4b81-9346-f1ddd410d59b.png)
-![image](https://user-images.githubusercontent.com/91726340/221412821-90b5a716-9e81-4df8-b84f-c6eef2d7d398.png)
-![image](https://user-images.githubusercontent.com/91726340/221412835-04e00a51-3567-4a69-9756-4eccf6181255.png)
 
 ### Thank You !!!

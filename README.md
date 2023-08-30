@@ -2,8 +2,8 @@
 
 ## Description
 
-**Project: Enhancing Stock Price Prediction with Integrated Machine Learning
-**
+Project: Enhancing Stock Price Prediction with Integrated Machine Learning
+
 In the realm of financial decision-making, accurate stock price prediction is a compelling goal. Leveraging the capabilities of machine learning, this project aims to revolutionize stock price forecasting, providing a systematic approach to aid in making informed investment decisions. The primary objectives and highlights of the project include:
 
 Holistic Prediction Approach: The project presents a comprehensive stock price prediction system that amalgamates diverse elements such as mathematical functions, machine learning algorithms, and external factors. This fusion of methodologies is designed to yield enhanced prediction accuracy, consequently leading to more favorable trading outcomes.
